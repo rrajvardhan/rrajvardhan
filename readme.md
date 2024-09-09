@@ -1,4 +1,4 @@
-## Rajvardhan Singh Tomar
+# Rajvardhan Singh Tomar
 ```
 rajvardhantomar25@gmail.com
 ```
