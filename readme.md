@@ -1,6 +1,6 @@
-## Rajvardhan Singh Tomar |                                       [rajvardhantomar25@gmail.com](mailto:rajvardhantomar25@gmail.com)
+## Rajvardhan Singh Tomar
 ```
-Email: rajvardhantomar25@gmail.com
+rajvardhantomar25@gmail.com
 ```
 🎓 Education
 ```
