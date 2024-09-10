@@ -2,7 +2,6 @@
 ```
 rajvardhantomar25@gmail.com
 ```
----
 🎓 Education
 ```
 University of Petroleum and Energy Studies
