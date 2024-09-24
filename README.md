@@ -12,16 +12,9 @@ Dehradun, India (2022 - 2026)
 ```
 
 ## 🛠 Skills
-```bash
-Skills:
-- JavaScript, HTML, CSS, C, C++
-- Python, Java, React, Tailwind
-- Node.js, MongoDB, MySQL
-```
 
-## 🖥️ Tech Stack
 ```
-$ curl https://skillicons.dev/icons?i=js,html,css,c,cpp,python,java,react,tailwind,nodejs,mongo,mysql
+$ curl https://rrajvardhan.skills
 ```
 
 <p align="center">
