@@ -8,13 +8,13 @@ rajvardhantomar25@gmail.com
 ```bash
 University of Petroleum and Energy Studies
 Bachelor of Technology in Computer Science Engineering
-Dehradun, India (2022 - 2026)
+Dehradun, India 
 ```
 
 ## 🛠 Skills
 
 ```
-$ curl https://rrajvardhan.skills
+$ curl rrajvardhan.skills
 ```
 
 <p align="center">
