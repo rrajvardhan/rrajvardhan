@@ -1,12 +1,29 @@
 # _Rajvardhan Singh Tomar_
-```
+
+```bash
 rajvardhantomar25@gmail.com
 ```
-🎓 Education
-```
+
+## 🎓 Education
+```bash
 University of Petroleum and Energy Studies
 Bachelor of Technology in Computer Science Engineering
 Dehradun, India (2022 - 2026)
 ```
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,python,java,react,tailwind,nodejs,mongo,mysql)
+## 🛠 Skills
+```bash
+Skills:
+- JavaScript, HTML, CSS, C, C++
+- Python, Java, React, Tailwind
+- Node.js, MongoDB, MySQL
+```
+
+## 🖥️ Tech Stack
+```
+$ curl https://skillicons.dev/icons?i=js,html,css,c,cpp,python,java,react,tailwind,nodejs,mongo,mysql
+```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,python,java,react,tailwind,nodejs,mongo,mysql" alt="Skills">
+</p>
