@@ -11,3 +11,6 @@ Dehradun, India (2022 - 2026)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,python,java,react,tailwind,nodejs,mongo,mysql" alt="Skills">
 </p>
+
+---
+[![](https://visitcount.itsvg.in/api?id=parthbanwari&icon=0&color=6)](https://visitcount.itsvg.in)
