@@ -13,4 +13,5 @@ Dehradun, India (2022 - 2026)
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rrajvardhan&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rrajvardhan&label=Profile%20Views&color=12&icon=5&pretty=true)]()
+
